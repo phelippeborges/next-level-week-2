@@ -9,12 +9,10 @@
     </a>
 </p>
 
-
 <p align="center"><img src="/extra/web_home.png" width="300px" height="200px"/></p>
 
 
 ## 💻 Project
-
 Proffy is an online plataform which works as a social network between students and teachers.
 
 </br>
@@ -49,6 +47,4 @@ Proffy is an online plataform which works as a social network between students a
 ## </> How to run:
 ### Server
  `npm run dev`
-### Web - Open at http://localhost:5500/
- 
 
