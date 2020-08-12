@@ -19,7 +19,10 @@ Proffy is an online plataform which works as a social network between students a
 
 ## ⌨️ Languages:
 ### JavaScript
-<img src="https://img.shields.io/static/v1?label=javascript&message=lang&color=yellow&style=flat&logo=JAVASCRIPT"/> 
+<img src="https://img.shields.io/static/v1?label=javascript&message=lang&color=yellow&style=flat&logo=JAVASCRIPT"/>
+
+### CSS/ HTML
+<img src="https://img.shields.io/static/v1?label=CSS&message=lang&color=blue&style=flat&logo=CSS3"/> <img src="https://img.shields.io/static/v1?label=HTML&message=lang&color=orange&style=flat&logo=HTML5"/>
 
 </br>
 
